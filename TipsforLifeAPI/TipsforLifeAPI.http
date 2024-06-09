@@ -1,0 +1,6 @@
+@TipsforLifeAPI_HostAddress = http://localhost:5260
+
+GET {{TipsforLifeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
